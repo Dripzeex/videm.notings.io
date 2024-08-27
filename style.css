@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+}
